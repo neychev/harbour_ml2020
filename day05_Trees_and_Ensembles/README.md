@@ -1,0 +1,2 @@
+Exploratory Data Analysis practice:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/neychev/harbour_ml2020/blob/master/day05_Trees_and_Ensembles/05_complete_EDA.ipynb)
