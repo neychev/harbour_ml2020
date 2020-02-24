@@ -1,0 +1,2 @@
+﻿Gradient boosting
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/neychev/harbour_ml2020/blob/master/day07_Gradient_boosting/07_trees_boosting_ensembling.ipynb)
