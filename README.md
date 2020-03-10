@@ -14,9 +14,7 @@ Additional materials for self-study:
 4. Bias-variance tradeoff in more general case: A Unified Bias-Variance Decomposition and its Applications [link](https://homes.cs.washington.edu/~pedrod/papers/mlc00a.pdf)
 5. Notes on matrix derivatives from Stanford: [link]( http://cs231n.stanford.edu/handouts/derivatives.pdf)
 
-_______________ __We've got till here for now__ ____________________
-
-5.  Great interactive blogpost by Alex Rogozhnikov: http://arogozhnikov.github.io/2016/06/24/gradient_boosting_explained.html
-6.  And great gradient boosted trees playground by Alex Rogozhnikov: http://arogozhnikov.github.io/2016/07/05/gradient_boosting_playground.html
-7. Shap values repo and explanation: https://github.com/slundberg/shap
-8. Kaggle tutorial on feature importances: https://www.kaggle.com/learn/machine-learning-explainability
+6.  Great interactive blogpost by Alex Rogozhnikov: http://arogozhnikov.github.io/2016/06/24/gradient_boosting_explained.html
+7.  And great gradient boosted trees playground by Alex Rogozhnikov: http://arogozhnikov.github.io/2016/07/05/gradient_boosting_playground.html
+8. Shap values repo and explanation: https://github.com/slundberg/shap
+9. Kaggle tutorial on feature importances: https://www.kaggle.com/learn/machine-learning-explainability
